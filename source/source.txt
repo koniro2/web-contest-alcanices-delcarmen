@@ -1,0 +1,27 @@
+tips:
+	recycle:
+		https://www.reshot.com/free-svg-icons/item/recycle-ZUYD4CEXPG/
+
+	walk:
+		https://www.reshot.com/free-svg-icons/item/walking-KW934UHCLG/
+
+	save energy:
+		https://www.reshot.com/free-svg-icons/item/save-energy-5379FLCYE2/
+
+stories:
+	recycling program:
+		https://ph.pinterest.com/pin/576320083539030474/
+
+	walking:
+		https://ph.pinterest.com/pin/771734086163748426/
+	
+	save energy:
+		https://ph.pinterest.com/pin/700732023293181009/
+
+background:
+	main:
+		https://ph.pinterest.com/pin/1021402390483008601/
+	tips:
+		https://ph.pinterest.com/pin/34480753385179066/
+	polluted bg:
+		https://ph.pinterest.com/pin/66639269470618266/

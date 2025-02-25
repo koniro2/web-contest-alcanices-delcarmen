@@ -1,0 +1,263 @@
+*{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background-color: black;
+}
+
+header{
+  position: fixed;
+  z-index: 100;
+}
+
+.head-bg{
+  width: 100%;
+}
+
+.pollution-bg{
+  position: relative;
+}
+
+.pollution-bg img{
+  width: 100%;
+}
+
+.main-bg{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.head-text{
+  position: absolute;
+  font-size: 50px;
+  color: white;
+  width: 900px;
+  margin-left: 75px;
+}
+
+.poll-text-span{
+  color: #B7FF00;
+}
+
+.poll-text-description{
+  font-size: 15px;
+  width: 400px;
+  opacity: 0.7;
+  margin-top: 15px;
+}
+
+.head-text-line{
+  line-height: 0.9em;
+}
+
+.main-interact{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+
+.interact-btns{
+  width: 120px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-interact{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  transition: 0.2s;
+}
+.text-interact:hover{
+  color: #B7FF00;
+  text-decoration: underline;
+}
+.main-main{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.tired-text-div{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  color: #B7FF00;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tired-contain{
+  position: relative;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.tired-contain img{
+  width: 100%;
+}
+
+.tips-contain img{
+  width: 100%;
+}
+
+.tips-text{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  font-size: 40px;
+}
+
+.tips-text h1{
+  position: absolute;
+  padding-top: 60px;
+  color: #B7FF00;
+}
+
+.card{
+  position: absolute;
+  background-color: #404F38;
+  width: 1000px;
+  height: 450px;
+  margin-top: 50em;
+  border-radius: 60px;
+}
+
+.card-contain{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-text{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin: 40px;
+  color: white;
+}
+
+.icon-text img{
+  width: 70px;
+}
+.icon-text h1{
+  font-size: 40px;
+  margin-left: 20px;
+  line-height: 0.9em;
+  width: 200px;
+}
+
+.recycle-des{
+  font-weight: lighter;
+  color: white;
+  margin-top: -5px;
+  margin-left: 30px;
+  font-size: 25px;
+  opacity: 0.8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.none-bg img{
+  width: 100%;
+}
+
+.story{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 100%;
+  font-size: 40px;
+  color: white;
+}
+.rec-prog img{
+  width: 100%;
+}
+
+.rec-prog{
+  position: relative;
+  display: flex;
+  justify-content: left;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.rec-image{
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.rec-image img{
+  margin-top: 30px;
+  width: 500px;
+}
+
+.rec-head h1{
+  color: #B7FF00;
+  justify-content: left;
+  font-size: 60px;
+}
+
+.rec-main{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction:  column;
+}
+
+.rec-main p{
+  width: 400px;
+  opacity: 0.7;
+  margin-top: 10px;
+  font-size: 17px;
+}
+
+.cha-head{
+  width: 100%;
+  font-size: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+
+.parent-card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: row;
+  margin-bottom: 200px;
+}
+.days{
+  background-color: #404F38;
+  width: 600px;
+  height: 400px;
+  margin: 20px;
+  color: white;
+  padding: 50px;
+  border-radius: 50px;
+}
+
+.days h1{
+  font-size: 35px;
+}
+
+.days p{
+  margin-top: 20px;
+  opacity: 0.7;
+  font-size: 30px;
+}
